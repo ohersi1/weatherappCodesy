@@ -46,7 +46,7 @@ async function weather2() {
             icon = data.weather[0].icon;
             humidity = data.main.humidity
             windSpeed = data.wind.speed
-            console.log(data)
+            
         }) 
 
        let date = new Date().toJSON().slice(0,10);
@@ -67,7 +67,7 @@ async function weather3() {
             icon = data.weather[0].icon;
             humidity = data.main.humidity
             windSpeed = data.wind.speed
-            console.log(data)
+            
         }) 
 
        let date = new Date().toJSON().slice(0,10);
@@ -88,7 +88,7 @@ async function weather4() {
             icon = data.weather[0].icon;
             humidity = data.main.humidity
             windSpeed = data.wind.speed
-            console.log(data)
+            
         }) 
 
        let date = new Date().toJSON().slice(0,10);
@@ -109,7 +109,7 @@ async function weather5() {
             icon = data.weather[0].icon;
             humidity = data.main.humidity
             windSpeed = data.wind.speed
-            console.log(data)
+            
         }) 
 
        let date = new Date().toJSON().slice(0,10);
@@ -130,7 +130,7 @@ async function weather6() {
             icon = data.weather[0].icon;
             humidity = data.main.humidity
             windSpeed = data.wind.speed
-            console.log(data)
+            
         }) 
 
        let date = new Date().toJSON().slice(0,10);
@@ -151,7 +151,7 @@ async function weather7() {
             icon = data.weather[0].icon;
             humidity = data.main.humidity
             windSpeed = data.wind.speed
-            console.log(data)
+            
         }) 
 
        let date = new Date().toJSON().slice(0,10);
@@ -172,7 +172,7 @@ async function weather8() {
             icon = data.weather[0].icon;
             humidity = data.main.humidity
             windSpeed = data.wind.speed
-            console.log(data)
+            
         }) 
 
        let date = new Date().toJSON().slice(0,10);
@@ -193,7 +193,7 @@ async function weather9() {
             icon = data.weather[0].icon;
             humidity = data.main.humidity
             windSpeed = data.wind.speed
-            console.log(data)
+            
         }) 
 
        let date = new Date().toJSON().slice(0,10);
