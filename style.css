@@ -1,0 +1,147 @@
+.title h1 {
+    color: white;
+    background-color: rgb(105, 105, 105);
+    height: 50px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.Austin {
+    border: 0.2px solid lightgrey;
+    width: 190px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 7px;
+}
+
+.Austin p :hover {
+    color: lightblue;
+}
+
+.Chicago {
+    border: 0.2px solid lightgrey;
+    width: 190px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 7px;
+    margin-top: -17px;
+}
+
+.New_York {
+    border: 0.2px solid lightgrey;
+    width: 190px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 7px;
+    margin-top: -17px;
+}
+
+.Orlando {
+    border: 0.2px solid lightgrey;
+    width: 190px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 7px;
+    margin-top: -17px;
+} 
+
+.SanFran {
+    border: 0.2px solid lightgrey;
+    width: 190px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 7px;
+    margin-top: -17px;
+}
+
+.Seattle {
+    border: 0.2px solid lightgrey;
+    width: 190px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 7px;
+    margin-top: -17px;
+}
+
+.Denver {
+    border: 0.2px solid lightgrey;
+    width: 190px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 7px;
+    margin-top: -17px;
+}
+
+.Atlanta {
+    border: 0.2px solid lightgrey;
+    width: 190px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 7px;
+    margin-top: -17px;
+}
+
+.weather_card {
+    border: 0.2px solid lightgrey;
+    display: flex;
+    margin-left: 230px;
+    margin-top: -322px;
+    height: 250px;
+    width: 540px;
+}
+
+
+.weather {
+    margin-top: -40px;
+    margin-left: 10px;
+}
+
+.weather_icon {
+    margin-top: 25px;
+}
+
+.day1 {
+    height: 120px;
+    width: 100px;
+    border: 0.2px solid lightgrey;
+    margin-left: 230px;
+    margin-top: 10px;
+}
+
+.day2 {
+    height: 120px;
+    width: 100px;
+    border: 0.2px solid lightgrey;
+    margin-left: 340px;
+    margin-top: -122px;
+}
+
+.day3 {
+    height: 120px;
+    width: 100px;
+    border: 0.2px solid lightgrey;
+    margin-left: 450px;
+    margin-top: -122px;
+}
+
+.day4 {
+    height: 120px;
+    width: 100px;
+    border: 0.2px solid lightgrey;
+    margin-left: 560px;
+    margin-top: -122px;
+}
+
+.day5 {
+    height: 120px;
+    width: 100px;
+    border: 0.2px solid lightgrey;
+    margin-left: 670px;
+    margin-top: -122px;
+}
+
+
+
