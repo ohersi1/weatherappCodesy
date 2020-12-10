@@ -103,45 +103,9 @@
     margin-top: 25px;
 }
 
-.day1 {
-    height: 120px;
-    width: 100px;
-    border: 0.2px solid lightgrey;
-    margin-left: 230px;
-    margin-top: 10px;
+.five_day_forecast {
+    display: flex;
+    margin-left: 220px;
+    
 }
-
-.day2 {
-    height: 120px;
-    width: 100px;
-    border: 0.2px solid lightgrey;
-    margin-left: 340px;
-    margin-top: -122px;
-}
-
-.day3 {
-    height: 120px;
-    width: 100px;
-    border: 0.2px solid lightgrey;
-    margin-left: 450px;
-    margin-top: -122px;
-}
-
-.day4 {
-    height: 120px;
-    width: 100px;
-    border: 0.2px solid lightgrey;
-    margin-left: 560px;
-    margin-top: -122px;
-}
-
-.day5 {
-    height: 120px;
-    width: 100px;
-    border: 0.2px solid lightgrey;
-    margin-left: 670px;
-    margin-top: -122px;
-}
-
-
 
